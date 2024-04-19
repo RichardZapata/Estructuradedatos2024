@@ -5,5 +5,5 @@ for (var i = 1; i <= n; i++)
 {
     suma += i;
 }
-
+//nuevo
 Console.WriteLine($"la suma de los {n} numeros naturales son : {suma}");
